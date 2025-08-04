@@ -1,0 +1,129 @@
+# Nmap 7.95 scan initiated Mon Aug  4 15:30:14 2025 as: /usr/lib/nmap/nmap -sS -oA local_scan 192.168.1.0/24
+Host: 192.168.1.0 ()	Status: Up
+Host: 192.168.1.0 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.1 ()	Status: Up
+Host: 192.168.1.1 ()	Ports: 53/open/tcp//domain///, 443/open/tcp//https///, 1088/closed/tcp//cplscrambler-al///, 2034/closed/tcp//scoremgr///, 3784/closed/tcp//bfd-control///, 5666/closed/tcp//nrpe///, 7435/closed/tcp/////, 8007/closed/tcp//ajp12///, 8099/closed/tcp/////, 9878/closed/tcp//kca-service///, 10629/closed/tcp/////, 16000/closed/tcp//fmsas///, 16012/closed/tcp/////, 26214/closed/tcp/////	Ignored State: filtered (986)
+Host: 192.168.1.2 ()	Status: Up
+Host: 192.168.1.2 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.3 ()	Status: Up
+Host: 192.168.1.3 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.4 ()	Status: Up
+Host: 192.168.1.4 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.5 ()	Status: Up
+Host: 192.168.1.5 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.6 ()	Status: Up
+Host: 192.168.1.6 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.7 ()	Status: Up
+Host: 192.168.1.7 ()	Ports: 714/closed/tcp//iris-xpcs///, 4129/closed/tcp//nuauth///, 8649/closed/tcp/////, 24444/closed/tcp/////	Ignored State: filtered (996)
+Host: 192.168.1.8 ()	Status: Up
+Host: 192.168.1.8 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.9 ()	Status: Up
+Host: 192.168.1.9 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.10 ()	Status: Up
+Host: 192.168.1.10 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.11 ()	Status: Up
+Host: 192.168.1.11 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.12 ()	Status: Up
+Host: 192.168.1.12 ()	Ports: 714/closed/tcp//iris-xpcs///, 8649/closed/tcp/////, 24444/closed/tcp/////	Ignored State: filtered (997)
+Host: 192.168.1.13 ()	Status: Up
+Host: 192.168.1.13 ()	Ports: 714/closed/tcp//iris-xpcs///, 8649/closed/tcp/////, 24444/closed/tcp/////	Ignored State: filtered (997)
+Host: 192.168.1.14 ()	Status: Up
+Host: 192.168.1.14 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.15 ()	Status: Up
+Host: 192.168.1.15 ()	Ports: 24444/closed/tcp/////	Ignored State: filtered (999)
+Host: 192.168.1.16 ()	Status: Up
+Host: 192.168.1.16 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.17 ()	Status: Up
+Host: 192.168.1.17 ()	Ports: 24444/closed/tcp/////	Ignored State: filtered (999)
+Host: 192.168.1.18 ()	Status: Up
+Host: 192.168.1.18 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.19 ()	Status: Up
+Host: 192.168.1.19 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.20 ()	Status: Up
+Host: 192.168.1.20 ()	Ports: 24444/closed/tcp/////	Ignored State: filtered (999)
+Host: 192.168.1.21 ()	Status: Up
+Host: 192.168.1.21 ()	Ports: 714/closed/tcp//iris-xpcs///, 2035/closed/tcp//imsldoc///, 4129/closed/tcp//nuauth///, 8007/closed/tcp//ajp12///, 20222/closed/tcp//ipulse-ics///	Ignored State: filtered (995)
+Host: 192.168.1.22 ()	Status: Up
+Host: 192.168.1.22 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.23 ()	Status: Up
+Host: 192.168.1.23 ()	Ports: 714/closed/tcp//iris-xpcs///, 8649/closed/tcp/////, 24444/closed/tcp/////	Ignored State: filtered (997)
+Host: 192.168.1.24 ()	Status: Up
+Host: 192.168.1.24 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.25 ()	Status: Up
+Host: 192.168.1.25 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.26 ()	Status: Up
+Host: 192.168.1.26 ()	Ports: 4129/closed/tcp//nuauth///, 20222/closed/tcp//ipulse-ics///	Ignored State: filtered (998)
+Host: 192.168.1.27 ()	Status: Up
+Host: 192.168.1.27 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.28 ()	Status: Up
+Host: 192.168.1.28 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.29 ()	Status: Up
+Host: 192.168.1.29 ()	Ports: 8649/closed/tcp/////, 24444/closed/tcp/////	Ignored State: filtered (998)
+Host: 192.168.1.30 ()	Status: Up
+Host: 192.168.1.30 ()	Ports: 1086/closed/tcp//cplscrambler-lg///, 1088/closed/tcp//cplscrambler-al///, 1096/closed/tcp//cnrprotocol///, 1244/closed/tcp//isbconference1///, 1521/closed/tcp//oracle///, 2034/closed/tcp//scoremgr///, 3784/closed/tcp//bfd-control///, 3971/closed/tcp//lanrevserver///, 5214/closed/tcp/////, 5666/closed/tcp//nrpe///, 6502/closed/tcp//netop-rc///, 7435/closed/tcp/////, 8099/closed/tcp/////, 8100/closed/tcp//xprint-server///, 8292/closed/tcp//blp3///, 10629/closed/tcp/////, 14000/closed/tcp//scotty-ft///, 16000/closed/tcp//fmsas///, 16012/closed/tcp/////, 25734/closed/tcp/////, 31337/closed/tcp//Elite///, 49161/closed/tcp/////	Ignored State: filtered (978)
+Host: 192.168.1.31 ()	Status: Up
+Host: 192.168.1.31 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.32 ()	Status: Up
+Host: 192.168.1.32 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.33 ()	Status: Up
+Host: 192.168.1.33 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.34 ()	Status: Up
+Host: 192.168.1.34 ()	Ports: 714/closed/tcp//iris-xpcs///, 8649/closed/tcp/////, 24444/closed/tcp/////	Ignored State: filtered (997)
+Host: 192.168.1.35 ()	Status: Up
+Host: 192.168.1.35 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.36 ()	Status: Up
+Host: 192.168.1.36 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.37 ()	Status: Up
+Host: 192.168.1.37 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.38 ()	Status: Up
+Host: 192.168.1.38 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.39 ()	Status: Up
+Host: 192.168.1.39 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.40 ()	Status: Up
+Host: 192.168.1.40 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.41 ()	Status: Up
+Host: 192.168.1.41 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.42 ()	Status: Up
+Host: 192.168.1.42 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.43 ()	Status: Up
+Host: 192.168.1.43 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.44 ()	Status: Up
+Host: 192.168.1.44 ()	Ports: 515/closed/tcp//printer///, 714/closed/tcp//iris-xpcs///, 1088/closed/tcp//cplscrambler-al///, 2034/closed/tcp//scoremgr///, 2035/closed/tcp//imsldoc///, 2394/closed/tcp//ms-olap2///, 3784/closed/tcp//bfd-control///, 4129/closed/tcp//nuauth///, 5631/closed/tcp//pcanywheredata///, 5666/closed/tcp//nrpe///, 5904/closed/tcp//ag-swim///, 7435/closed/tcp/////, 8007/closed/tcp//ajp12///, 8099/closed/tcp/////, 8649/closed/tcp/////, 8899/closed/tcp//ospf-lite///, 9878/closed/tcp//kca-service///, 10629/closed/tcp/////, 16000/closed/tcp//fmsas///, 16012/closed/tcp/////, 20222/closed/tcp//ipulse-ics///, 24444/closed/tcp/////, 26214/closed/tcp/////	Ignored State: filtered (977)
+Host: 192.168.1.45 ()	Status: Up
+Host: 192.168.1.45 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.46 ()	Status: Up
+Host: 192.168.1.46 ()	Ports: 24444/closed/tcp/////	Ignored State: filtered (999)
+Host: 192.168.1.47 ()	Status: Up
+Host: 192.168.1.47 ()	Ports: 24444/closed/tcp/////	Ignored State: filtered (999)
+Host: 192.168.1.48 ()	Status: Up
+Host: 192.168.1.48 ()	Ports: 8649/closed/tcp/////, 24444/closed/tcp/////	Ignored State: filtered (998)
+Host: 192.168.1.49 ()	Status: Up
+Host: 192.168.1.49 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.50 ()	Status: Up
+Host: 192.168.1.50 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.51 ()	Status: Up
+Host: 192.168.1.51 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.52 ()	Status: Up
+Host: 192.168.1.52 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.53 ()	Status: Up
+Host: 192.168.1.53 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.54 ()	Status: Up
+Host: 192.168.1.54 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.55 ()	Status: Up
+Host: 192.168.1.55 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.56 ()	Status: Up
+Host: 192.168.1.56 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.57 ()	Status: Up
+Host: 192.168.1.57 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.58 ()	Status: Up
+Host: 192.168.1.58 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.59 ()	Status: Up
+Host: 192.168.1.59 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.60 ()	Status: Up
+Host: 192.168.1.60 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.61 ()	Status: Up
+Host: 192.168.1.61 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.62 ()	Status: Up
+Host: 192.168.1.62 ()	Ports: 	Ignored State: filtered (1000)
+Host: 192.168.1.63 ()	Status: Up
+Host: 192.168.1.63 ()	Ports: 	Ignored State: filtered (1000)
